@@ -177,7 +177,7 @@ $result = $conn->query($sql);
         <tr>
             <th>Name</th>
             <th>Phone</th>
-            <th>Email</th>
+            <th>E-mail</th>
             <th>Action</th>
         </tr>
         <?php
