@@ -87,7 +87,7 @@ $result = $conn->query($sql);
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         .reset-button {
-            background-color: burlywood;
+            background-color: lightgoldenrodyellow;
             color: white;
             padding: 8px 20px 10px 20px;
             border: none;
